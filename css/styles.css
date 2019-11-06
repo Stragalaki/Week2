@@ -1,0 +1,33 @@
+h1 {
+    color: purple;
+}
+
+
+
+h2 {
+    color: rgb(255, 0, 98);
+    font-style: italic;
+    font-size: 20px;
+}
+
+p {
+    color: black;
+}
+
+a {
+    text-decoration: underline;
+    background-color: yellow;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    
+}
+
+div {
+    font-family: "Helvetica";
+}
+#Paragr1 {
+    width: 500px;
+}
